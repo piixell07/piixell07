@@ -1,8 +1,8 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=170&text=Bernard%20Mchungula&fontSize=48&fontColor=61DAFB&fontAlignY=40&animation=twinkling&section=header" />
 
 <p align="center">
-  <!-- Typing animation with pseudo-blinking cursor -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=500&color=61DAFB&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+NACIT|;Full-Stack+Developer|;Mobile+App+Developer|;Database+Designer|;Passionate+About+Digital+Innovation|" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+NACIT;Full-Stack+Developer;Mobile+App+Developer;Database+Designer;Passionate+About+Digital+Innovation" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 👨🏽‍💻 Personal Profile
 
-Highly motivated Computer Science student at NACIT, currently pursuing an **Advanced Diploma in Computing**. Skilled in full-stack web development, mobile application development, and database management. Passionate about digital innovation and problem-solving, seeking internship opportunities to contribute to impactful ICT projects.
+Highly motivated Computer Science student at NACIT. Skilled in full-stack web development, mobile application development, and database management. Passionate about digital innovation and problem-solving, seeking internship opportunities to contribute to impactful ICT projects.
 
 ---
 
@@ -72,10 +72,11 @@ Android application for tracking workouts and user progress
 ✔ Progress tracking  
 
 ### 💻 Fitness Tracker (Desktop)
-Desktop fitness tracking system using **C#, PHP & MySQL**  
+Desktop fitness tracking system using **C#, PHP & MySQL**
 
 ### 🍲 Food Fusion Website
-Full-stack recipe-sharing platform developed with HTML, CSS, JavaScript, PHP & MySQL  
+Full-stack recipe-sharing platform developed with  
+HTML, CSS, JavaScript, PHP & MySQL  
 
 ### 🤖 WhatsApp Bot
 JavaScript-based automation bot with messaging and media support  
@@ -84,16 +85,17 @@ JavaScript-based automation bot with messaging and media support
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <!-- General GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=piixell07&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519,000000&border_color=3a8296&hide_border=false" height="170em" />
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=piixell07&theme=radical&background=091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB" height="170em" />
+<img src="https://github-readme-stats.vercel.app/api?username=piixell07&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piixell07&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519,000000&border_color=3a8296&hide_border=false" height="170em" />
-</p>
+<img src="https://streak-stats.demolab.com?user=piixell07&theme=radical&background=0,000000,091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB" height="170em"/>
+
+---
+
+## 🧩 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piixell07&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 
 ---
 
