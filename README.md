@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=170&text=Bernard%20Mchungula&fontSize=48&fontColor=61DAFB&fontAlignY=40&animation=twinkling&section=header" />
 
 <p align="center">
@@ -17,39 +16,19 @@
 
 ---
 
-## 👨🏽‍💻 Personal Profile
+## 👨🏽‍💻 About Me
 
-Highly motivated Computer Science student at NACIT. Skilled in full-stack web development, mobile application development, and database management. Passionate about digital innovation and problem-solving, seeking internship opportunities to contribute to impactful ICT projects.
+Hi! I'm Bernard, a Computer Science student at NACIT. I build websites, mobile apps, and databases. Looking for an internship to grow my skills!
 
----
-
-## 📬 Connect With Me  
-
-<p align="center">
-  <a href="mailto:b.mchungula2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
-  </a>
-  <a href="https://github.com/piixell07">
-    <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piixell07&color=3a8296&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/piixell07?label=GitHub%20Followers&color=3a8296&style=flat" />
-</p>
+📫 **Email:** b.mchungula2@gmail.com
 
 ---
 
-## 🧠 Technical Skills
+## 🛠️ What I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,csharp,kotlin&theme=dark" />
 </p>
-
----
-
-## ⚙️ Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,androidstudio&theme=dark" />
@@ -57,61 +36,61 @@ Highly motivated Computer Science student at NACIT. Skilled in full-stack web de
 
 ---
 
-## 📂 Projects
+## 📂 My Projects
 
 ### 📦 Inventory Management System (Ongoing)
-Web-based stock management system built with **PHP & MySQL**  
-✔ CRUD operations  
-✔ Database integration  
-✔ Responsive UI  
+> Web app for stock management with PHP & MySQL
 
-### 🏋🏽 Fitness Tracker (Mobile – Kotlin)
-Android application for tracking workouts and user progress  
-✔ Database integration  
-✔ User data management  
-✔ Progress tracking  
+### 🏋🏽 Fitness Tracker (Mobile)
+> Android app in Kotlin for tracking workouts
 
 ### 💻 Fitness Tracker (Desktop)
-Desktop fitness tracking system using **C#, PHP & MySQL**
+> Built with C#, PHP & MySQL
 
 ### 🍲 Food Fusion Website
-Full-stack recipe-sharing platform developed with  
-HTML, CSS, JavaScript, PHP & MySQL  
+> Recipe sharing platform (HTML, CSS, JS, PHP, MySQL)
 
 ### 🤖 WhatsApp Bot
-JavaScript-based automation bot with messaging and media support  
+> JavaScript automation bot
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=piixell07&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=091519&hide_border=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piixell07&layout=compact&theme=radical&title_color=61DAFB&bg_color=091519&hide_border=false"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=piixell07&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-
-<img src="https://streak-stats.demolab.com?user=piixell07&theme=radical&background=0,000000,091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB" height="170em"/>
-
----
-
-## 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piixell07&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=piixell07&theme=radical&background=091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB" height="150em"/>
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🌱 What I'm Learning Now
 
-✔ Completed Level 4 Diploma in Computing  
-✔ Developed multiple full-stack web applications  
-✔ Built a functional mobile application  
-✔ Recognized for initiative and self-driven learning  
-
----
-
-## 🎯 Career Objective
-
-To secure an internship or junior developer role where I can apply my technical skills, contribute to digital transformation initiatives, and continue growing in full-stack development and cybersecurity.
+- PHP & Laravel
+- Cybersecurity basics
+- Cloud (AWS)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting%20👋&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+## 🎯 Looking For
+
+✔ Internship or junior developer role  
+✔ Full-stack or mobile development  
+✔ Opportunities to learn and contribute
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piixell07&color=3a8296&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/piixell07?color=3a8296&style=flat-square" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=25&fontColor=61DAFB&animation=twinkling" />
