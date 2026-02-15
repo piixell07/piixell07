@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=170&text=Bernard%20Mchungula&fontSize=48&fontColor=61DAFB&fontAlignY=40&animation=twinkling&section=header" />
 
-<h3 align="center">Computer Science Student At NACIT | Full-Stack Developer | Mobile App Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+NACIT;Full-Stack+Developer;Mobile+App+Developer;Database+Designer;Passionate+About+Digital+Innovation" />
+</p>
 
 <p align="center">
 💡 <i>"Crafting logic and innovation in every line of code."</i>
