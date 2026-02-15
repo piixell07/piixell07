@@ -19,7 +19,7 @@
 
 ## 👨🏽‍💻 Personal Profile
 
-Highly motivated Computer Science student at NACIT, currently pursuing an **Advanced Diploma in Computing**. Skilled in full-stack web development, mobile application development, and database management. Passionate about digital innovation and problem-solving, seeking internship opportunities to contribute to impactful ICT projects.
+Highly motivated Computer Science student at NACIT. Skilled in full-stack web development, mobile application development, and database management. Passionate about digital innovation and problem-solving, seeking internship opportunities to contribute to impactful ICT projects.
 
 ---
 
