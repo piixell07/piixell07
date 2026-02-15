@@ -95,7 +95,7 @@ JavaScript-based automation bot with messaging and media support
 
 ## 🧩 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piixell07&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piixell07&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 
 ---
 
