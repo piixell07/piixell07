@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+NACIT;Full-Stack+Developer;Mobile+App+Developer;Database+Designer;Passionate+About+Digital+Innovation" />
 </p>
 
-<p align="center">
+<!--<p align="center">
 💡 <i>"Crafting logic and innovation in every line of code."</i>
-</p>
+</p>-->
 
 ---
 
