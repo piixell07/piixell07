@@ -1,4 +1,4 @@
-Am a developer looking for an internship hire me please🙏
+Am a developer looking for an internship please hire me🙏
 
 +265990675095 
 
